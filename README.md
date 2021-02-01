@@ -1,2 +1,2 @@
 # frontend-toolbox
-Frontend for toolbox technical test.
+Frontend for toolbox technical test
