@@ -27,7 +27,7 @@ export default function textBox({ textList, setList }) {
             const tmpList = [...textList]
             tmpList.unshift(
                 {
-                    normalText: textData.normalText,
+                    normalText: text,
                     text: textData.text,
                     palindrome: textData.palindrome
                 }
