@@ -33,7 +33,7 @@ module.exports = {
     })
   ],
   devServer: {
-    port: 8000
+    port: 4000
   },
   resolve: {
     extensions: ['.js', '.jsx']
